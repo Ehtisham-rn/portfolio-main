@@ -109,7 +109,7 @@ export const aboutData = [
         stage: "Mar 2025 - Present",
       },
       {
-        title: "Full Stack Developer - Gitwork Ltd",
+        title: "Wordpress Developer - Gitwork Ltd",
         stage: "Sep 2024 - Mar 2025",
       },
       {
